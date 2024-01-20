@@ -2,7 +2,7 @@ import telebot
 import qrcode
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual Telegram bot token
-bot = telebot.TeleBot('6570483766:AAGz1e8wDE_5XcoBRXH10-lqLuv7XkTlhxw')
+bot = telebot.TeleBot('6570483766:AAFdWIlSVvvjza-lNHo4N6ySwNFjlZfBOw0')
 
 # Replace 'YOUR_CHANNEL_USERNAME' with your actual channel username
 
